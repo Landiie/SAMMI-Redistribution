@@ -12,10 +12,14 @@ After downloading and overwriting/installing files, turn off automatic updates f
 This repository redistributes software originally developed by SAMMISolutions,
 licensed under the Apache License, Version 2.0 with additional notices.
 
-The original licenses and notices are included in the `Licenses` directory, containing `LICENSE` and `NOTICE` files.
-Modifications, if any, are described in `CHANGES.md`.
+The original licenses and notices are included in the `Licenses` directory, within a directory labelled after each component of the software, containing both the license, and notice files.
+
+Modifications are described in `CHANGES.md`.
+
+This repository is licensed under MIT, located in the `LICENSE` file.
 
 ## Why?
+
 SAMMI is arguably one of the more approachable and capable stream assistants out there, and a lot of people want to use SAMMI.
 
 Latest updates have been less than satisfactory, with constant pushes towards paid products that used to be free, and have been taking down entire streaming setups due to negligent changes:
