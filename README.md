@@ -24,7 +24,7 @@ SAMMI is arguably one of the more approachable and capable stream assistants out
 
 Latest updates have been less than satisfactory, with constant pushes towards paid products that used to be free, and have been taking down entire streaming setups due to negligent changes:
 
-such as `2026.2.0`, deleting everyone's installed extensions in the bridge, which i was [somehow speculated to have caused](https://i.imgur.com/xiQyPIQ.png) (this did [not end up being the case](https://i.imgur.com/g8rGCIV.png))?? This update also updated the bridge in a way that was entirely incorrect, giving an unminified version of the bridge users, as well as muddying up the SAMMI-Bridge repository.
+such as `2026.2.0`, deleting everyone's installed extensions in the bridge, which i was [somehow speculated to have caused](https://i.imgur.com/xiQyPIQ.png) (this did [not end up being the case](https://i.imgur.com/g8rGCIV.png))?? This update also updated the bridge in a way that was entirely incorrect, giving an unminified version of the bridge users, as well as muddying up the SAMMI-Bridge repository (which i have preserved before this happened in [this repository](https://github.com/Landiie/SAMMI-Bridge), because i knew this would've been the case).
 
 Or `2026.1.0`, haphazardly implementing version 2 of Twitch's Hype Train events, which, instead of renaming data recieved in SAMMI to ensure that data remained compatible with user's setups, was instead just provided as-is, requiring everyone using hype train triggers in SAMMI to [change around their data](https://i.imgur.com/HToEs52.png) for no real reason other than the developer simply choosing to not pay mind to it.
 
