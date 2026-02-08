@@ -30,10 +30,6 @@ Or `2026.1.0`, haphazardly implementing version 2 of Twitch's Hype Train events,
 
 Safe to say, users are really worried about whatever update comes next for SAMMI and those either willing to keep using the app, or stuck using it, want to know what version is most stable. So that is why this repository exists. It is solely to redistribute a known-good copy of SAMMI that isn't riddled with poor decisions.
 
-# What about outdated features breaking over time?
-
-Download the [Fixer Upper](https://landie.land/shop/sammi-extensions/fixer-upper) extension. this extension reimplements broken features or improves upon existing ones.
-
 ## Is this legal?
 
 [Yes.](https://github.com/SAMMISolutions/SAMMI-Official/tree/2025.3.1/Licenses)
